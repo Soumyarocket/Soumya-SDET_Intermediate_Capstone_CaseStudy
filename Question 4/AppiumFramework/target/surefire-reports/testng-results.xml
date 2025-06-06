@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-24T13:12:26 IST" name="Suite" finished-at="2023-11-24T13:12:43 IST" duration-ms="16841">
+    <groups>
+    </groups>
+    <test started-at="2023-11-24T13:12:26 IST" name="Test" finished-at="2023-11-24T13:12:43 IST" duration-ms="16841">
+      <class name="Develop.mobile.LoginActions">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Develop.mobile.LoginActions@c88a337]" started-at="2023-11-24T13:11:57 IST" name="setup" finished-at="2023-11-24T13:12:26 IST" duration-ms="28583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="intitate()[pri:0, instance:Develop.mobile.LoginActions@c88a337]" started-at="2023-11-24T13:12:26 IST" name="intitate" finished-at="2023-11-24T13:12:26 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitate -->
+        <test-method signature="setupapp()[pri:1, instance:Develop.mobile.LoginActions@c88a337]" started-at="2023-11-24T13:12:26 IST" name="setupapp" finished-at="2023-11-24T13:12:31 IST" duration-ms="5175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupapp -->
+        <test-method signature="checkcappopen()[pri:2, instance:Develop.mobile.LoginActions@c88a337]" started-at="2023-11-24T13:12:31 IST" name="checkcappopen" finished-at="2023-11-24T13:12:32 IST" duration-ms="852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcappopen -->
+        <test-method signature="navigatetomessageservice()[pri:3, instance:Develop.mobile.LoginActions@c88a337]" started-at="2023-11-24T13:12:32 IST" name="navigatetomessageservice" finished-at="2023-11-24T13:12:40 IST" duration-ms="8414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetomessageservice -->
+        <test-method signature="bindservicetest()[pri:4, instance:Develop.mobile.LoginActions@c88a337]" started-at="2023-11-24T13:12:40 IST" name="bindservicetest" finished-at="2023-11-24T13:12:41 IST" duration-ms="507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bindservicetest -->
+        <test-method signature="unbindservicetest()[pri:5, instance:Develop.mobile.LoginActions@c88a337]" started-at="2023-11-24T13:12:41 IST" name="unbindservicetest" finished-at="2023-11-24T13:12:43 IST" duration-ms="1788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unbindservicetest -->
+      </class> <!-- Develop.mobile.LoginActions -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
